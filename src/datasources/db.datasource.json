@@ -1,0 +1,10 @@
+{
+  "name": "db",
+  "connector": "mongodb",
+  "url": "mongodb://admin:qJwsOtw1t0A8fB4J@cluster0-shard-00-00.d9xky.mongodb.net:27017,cluster0-shard-00-01.d9xky.mongodb.net:27017,cluster0-shard-00-02.d9xky.mongodb.net:27017/blog?ssl=true&replicaSet=atlas-12p64k-shard-0&authSource=admin&retryWrites=true&w=majority",
+  "host": "cluster0-shard-00-00.d9xky.mongodb.net",
+  "port": "27017",
+  "user": "admin",
+  "password": "qJwsOtw1t0A8fB4J",
+  "database": "blog"
+}
